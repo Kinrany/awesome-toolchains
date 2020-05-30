@@ -7,7 +7,7 @@
 
 | Ecosystem | Version manager | [Package manager] | [Unit testing] |
 | --------- | --------------- | ----------------- | -------------- |
-| [C#]      |                 | [Nuget]           |                |
+| [C#]      |                 | [NuGet]           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Jest]         |
 | [Ruby]    | [rvm]           |                   |                |
 | [Rust]    | [rustup]        | [Cargo]           | [`cargo test`] |
@@ -23,8 +23,8 @@
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [C#]: #c
 
-#### Package manager - [Nuget](https://www.nuget.org/)
-[Nuget]: #package-manager---Nuget
+#### Package manager - [NuGet](https://www.nuget.org/)
+[NuGet]: #package-manager---nuget
 
 
 ### [NodeJS](https://nodejs.org/en/)
@@ -34,14 +34,14 @@
 [nvm]: #version-manager---nvm
 
 #### Package manager - [NPM](https://www.npmjs.com/)
-[NPM]: #package-manager---NPM
+[NPM]: #package-manager---npm
 
 Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
 
 #### Unit testing - [Jest](https://jestjs.io/)
-[Jest]: #unit-testing---Jest
+[Jest]: #unit-testing---jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
@@ -60,7 +60,7 @@ Alternatives:
 [rustup]: #version-manager---rustup
 
 #### Package manager - [Cargo](https://doc.rust-lang.org/stable/cargo/)
-[Cargo]: #package-manager---Cargo
+[Cargo]: #package-manager---cargo
 
 #### Unit testing - [`cargo test`](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
 [`cargo test`]: #unit-testing---cargo-test
