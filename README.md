@@ -11,7 +11,7 @@
 | [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
 | [Python]  | [pyenv]         | [pip]             | [yapf]          |           |                |
 | [Ruby]    | [rvm]           | [RubyGems]        |                 | [RuboCop] |                |
-| [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       |           | [`cargo test`] |
+| [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       | [Clippy]  | [`cargo test`] |
 
 <!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
 
@@ -97,6 +97,9 @@ Alternatives:
 
 #### Code formatter: [rustfmt](https://github.com/rust-lang/rustfmt)
 [rustfmt]: #code-formatter-rustfmt
+
+#### Linting: [Clippy](https://github.com/rust-lang/rust-clippy)
+[Clippy]: #linting-clippy
 
 #### Testing: [`cargo test`](https://doc.rust-lang.org/cargo/guide/tests.html)
 [`cargo test`]: #testing-cargo-test
