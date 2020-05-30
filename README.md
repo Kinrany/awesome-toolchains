@@ -5,7 +5,7 @@
 <!-- ecosystems sorted by name -->
 <!-- tools sorted by the order they're usually encountered in in development process -->
 
-| Ecosystem | Version manager | [Package manager] | Code formatter  | [Linting] | [Unit testing] |
+| Ecosystem | Version manager | [Package manager] | Code formatter  | [Linting] | [Testing]      |
 | --------- | --------------- | ----------------- | --------------- | --------- | -------------- |
 | [C#]      |                 | [NuGet]           | [CodeFormatter] |           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
@@ -18,7 +18,7 @@
 [Package manager]: https://en.wikipedia.org/wiki/Package_manager
 <!-- [Code formatter]: is there an article specifically about tools that automatically rewrite source code? -->
 [Linting]: https://en.wikipedia.org/wiki/Lint_(software)
-[Unit testing]: https://en.wikipedia.org/wiki/Unit_testing
+[Testing]: https://en.wikipedia.org/wiki/Test_automation
 
 ## Ecosystems
 
@@ -52,8 +52,8 @@ Alternatives:
 #### Linting - [ESLint](https://eslint.org/)
 [ESLint]: #linting---eslint
 
-#### Unit testing - [Jest](https://jestjs.io/)
-[Jest]: #unit-testing---jest
+#### Testing - [Jest](https://jestjs.io/)
+[Jest]: #testing---jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
@@ -84,8 +84,8 @@ Alternatives:
 #### Code formatter - [rustfmt](https://github.com/rust-lang/rustfmt)
 [rustfmt]: #code-formatter---rust
 
-#### Unit testing - [`cargo test`](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
-[`cargo test`]: #unit-testing---cargo-test
+#### Testing - [`cargo test`](https://doc.rust-lang.org/cargo/guide/tests.html)
+[`cargo test`]: #testing---cargo-test
 
 
 ## Contributing
