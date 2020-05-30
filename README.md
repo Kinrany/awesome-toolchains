@@ -21,49 +21,49 @@
 
 
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[C#]: #C#
+[C#]: #c
 
 #### Package manager - [Nuget](https://www.nuget.org/)
-[Nuget]: #Package-manager---Nuget
+[Nuget]: #package-manager---Nuget
 
 
 ### [NodeJS](https://nodejs.org/en/)
-[NodeJS]: #NodeJS
+[NodeJS]: #nodejs
 
 #### Version manager - [nvm](https://github.com/nvm-sh/nvm)
-[nvm]: #Version-manager---nvm
+[nvm]: #version-manager---nvm
 
 #### Package manager - [NPM](https://www.npmjs.com/)
-[NPM]: #Package-manager---NPM
+[NPM]: #package-manager---NPM
 
 Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
 
 #### Unit testing - [Jest](https://jestjs.io/)
-[Jest]: #Unit-testing---Jest
+[Jest]: #unit-testing---Jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
 
 ### [Ruby](https://www.ruby-lang.org/en/)
-[Ruby]: #Ruby
+[Ruby]: #ruby
 
 #### Version manager - [rvm](https://rvm.io/)
-[rvm]: #Version-manager---rvm
+[rvm]: #version-manager---rvm
 
 
 ### [Rust](https://www.rust-lang.org/)
-[Rust]: #Rust
+[Rust]: #rust
 
 #### Version manager - [rustup](https://rustup.rs/)
-[rustup]: #Version-manager---rustup
+[rustup]: #version-manager---rustup
 
 #### Package manager - [Cargo](https://doc.rust-lang.org/stable/cargo/)
-[Cargo]: #Package-manager---Cargo
+[Cargo]: #package-manager---Cargo
 
 #### Unit testing - [`cargo test`](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
-[`cargo test`]: #Unit-testing---cargo-test
+[`cargo test`]: #unit-testing---cargo-test
 
 
 ## Contributing
