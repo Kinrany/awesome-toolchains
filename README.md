@@ -34,7 +34,7 @@ Alternatives:
 
 #### Testing framework - [Jest](https://jestjs.io/)
 
-[Jest]: #Package-manager---Jest
+[Jest]: #Testing-framework---Jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
