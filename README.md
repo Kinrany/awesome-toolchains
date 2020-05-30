@@ -19,11 +19,13 @@
 
 ## Ecosystems
 
+
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [C#]: #C#
 
 #### Package manager - [Nuget](https://www.nuget.org/)
 [Nuget]: #Package-manager---Nuget
+
 
 ### [NodeJS](https://nodejs.org/en/)
 [NodeJS]: #NodeJS
@@ -44,6 +46,13 @@ Alternatives:
 Alternatives:
  - [Mocha](https://mochajs.org/)
 
+### [Ruby](https://www.ruby-lang.org/en/)
+[Ruby]: #Ruby
+
+#### Version manager - [rvm](https://rvm.io/)
+[rvm]: #Version-manager---rvm
+
+
 ### [Rust](https://www.rust-lang.org/)
 [Rust]: #Rust
 
@@ -56,11 +65,6 @@ Alternatives:
 #### Unit testing - [`cargo test`](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
 [`cargo test`]: #Unit-testing---cargo-test
 
-### [Ruby](https://www.ruby-lang.org/en/)
-[Ruby]: #Ruby
-
-#### Version manager - [rvm](https://rvm.io/)
-[rvm]: #Version-manager---rvm
 
 ## Contributing
 
