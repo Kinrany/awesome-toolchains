@@ -5,17 +5,19 @@
 <!-- ecosystems sorted by name -->
 <!-- tools sorted by the order they're usually encountered in in development process -->
 
-| Ecosystem | Version manager | [Package manager] | [Unit testing] |
-| --------- | --------------- | ----------------- | -------------- |
-| [C#]      |                 | [NuGet]           |                |
-| [NodeJS]  | [nvm]           | [NPM]             | [Jest]         |
-| [Ruby]    | [rvm]           | [RubyGems]        |                |
-| [Rust]    | [rustup]        | [Cargo]           | [`cargo test`] |
+| Ecosystem | Version manager | [Package manager] | Code formatter  | [Linting] | [Unit testing] |
+| --------- | --------------- | ----------------- | --------------- | --------- | -------------- |
+| [C#]      |                 | [NuGet]           | [CodeFormatter] |           |                |
+| [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
+| [Ruby]    | [rvm]           | [RubyGems]        |                 | [RuboCop] |                |
+| [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       |           | [`cargo test`] |
 
 <!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
 
 <!-- [Version manager]: is there an article that explains what a version manager is and why they're useful? -->
 [Package manager]: https://en.wikipedia.org/wiki/Package_manager
+<!-- [Code formatter]: is there an article specifically about tools that automatically rewrite source code? -->
+[Linting]: https://en.wikipedia.org/wiki/Lint_(software)
 [Unit testing]: https://en.wikipedia.org/wiki/Unit_testing
 
 ## Ecosystems
@@ -26,6 +28,9 @@
 
 #### Package manager - [NuGet](https://www.nuget.org/)
 [NuGet]: #package-manager---nuget
+
+#### Code formatter - [CodeFormatter](https://github.com/dotnet/codeformatter)
+[CodeFormatter]: #code-formatter---codeformatter
 
 
 ### [NodeJS](https://nodejs.org/en/)
@@ -41,11 +46,18 @@ Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
 
+#### Code formatter - [Prettier](https://prettier.io)
+[Prettier]: #code-formatter---prettier
+
+#### Linting - [ESLint](https://eslint.org/)
+[ESLint]: #linting---eslint
+
 #### Unit testing - [Jest](https://jestjs.io/)
 [Jest]: #unit-testing---jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
+
 
 ### [Ruby](https://www.ruby-lang.org/en/)
 [Ruby]: #ruby
@@ -56,6 +68,9 @@ Alternatives:
 #### Package manager - [RubyGems](https://rubygems.org/)
 [RubyGems]: #package-manager---rubygems
 
+#### Linting - [RuboCop](https://rubocop.org/)
+[RuboCop]: #linting---rubocop
+
 
 ### [Rust](https://www.rust-lang.org/)
 [Rust]: #rust
@@ -65,6 +80,9 @@ Alternatives:
 
 #### Package manager - [Cargo](https://doc.rust-lang.org/stable/cargo/)
 [Cargo]: #package-manager---cargo
+
+#### Code formatter - [rustfmt](https://github.com/rust-lang/rustfmt)
+[rustfmt]: #code-formatter---rust
 
 #### Unit testing - [`cargo test`](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
 [`cargo test`]: #unit-testing---cargo-test
