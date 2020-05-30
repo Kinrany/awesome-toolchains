@@ -9,6 +9,7 @@
 | --------- | --------------- | ----------------- | --------------- | --------- | -------------- |
 | [C#]      |                 | [NuGet]           | [CodeFormatter] |           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
+| [Python]  |                 |                   |                 |           |                |
 | [Ruby]    | [rvm]           | [RubyGems]        |                 | [RuboCop] |                |
 | [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       |           | [`cargo test`] |
 
@@ -57,6 +58,10 @@ Alternatives:
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
+
+
+### [Python](https://www.python.org/)
+[Python]: #python
 
 
 ### [Ruby](https://www.ruby-lang.org/en/)
