@@ -45,3 +45,5 @@ Alternatives:
 Yes, please! I don't know all the languages yet.
 
 Feel free to send a PR or open an issue if something seems wrong.
+
+Also feel free to skip internal links, I'll add those later.
