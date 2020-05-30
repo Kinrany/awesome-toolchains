@@ -12,7 +12,7 @@
 
 <!-- links in headers start with url- to distinguish them from links in the table and to make it easy to link to the headers -->
 
-## C#
+### C#
 
 [C#]: #C#
 
@@ -20,7 +20,7 @@
 
 [Nuget]: #Package-manager---Nuget
 
-## NodeJS
+### NodeJS
 
 [NodeJS]: #NodeJS
 
@@ -32,7 +32,7 @@ Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
 
-## Rust
+### Rust
 
 [Rust]: #Rust
 
