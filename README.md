@@ -14,6 +14,7 @@
 
 <!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
 
+<!-- [Version manager]: is there an article that explains what a version manager is and why they're useful? -->
 [Package manager]: https://en.wikipedia.org/wiki/Package_manager
 [Unit testing]: https://en.wikipedia.org/wiki/Unit_testing
 
