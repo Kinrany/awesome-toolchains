@@ -9,7 +9,7 @@
 | --------- | --------------- | ----------------- | -------------- |
 | [C#]      |                 | [NuGet]           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Jest]         |
-| [Ruby]    | [rvm]           |                   |                |
+| [Ruby]    | [rvm]           | [RubyGems]        |                |
 | [Rust]    | [rustup]        | [Cargo]           | [`cargo test`] |
 
 <!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
@@ -51,6 +51,9 @@ Alternatives:
 
 #### Version manager - [rvm](https://rvm.io/)
 [rvm]: #version-manager---rvm
+
+#### Package manager - [RubyGems](https://rubygems.org/)
+[RubyGems]: #package-manager---rubygems
 
 
 ### [Rust](https://www.rust-lang.org/)
