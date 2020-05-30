@@ -9,7 +9,7 @@
 | --------- | --------------- | ----------------- | --------------- | --------- | -------------- |
 | [C#]      |                 | [NuGet]           | [CodeFormatter] |           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
-| [Python]  | [pyenv]         | [pip]             | [yapf]          |           |                |
+| [Python]  | [pyenv]         | [pip]             | [black]         |           |                |
 | [Ruby]    | [rvm]           | [RubyGems]        |                 | [RuboCop] |                |
 | [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       | [Clippy]  | [`cargo test`] |
 
@@ -69,8 +69,11 @@ Alternatives:
 #### Package manager: [pip](https://pypi.org/project/pip/)
 [pip]: #package-manager-pip
 
-#### Code formatter: [yapf](https://github.com/google/yapf)
-[yapf]: #code-formatter-yapf
+#### Code formatter: [black](https://github.com/psf/black)
+[black]: #code-formatter-black
+
+Alternatives:
+ - [yapf](https://github.com/google/yapf)
 
 
 ### [Ruby](https://www.ruby-lang.org/en/)
