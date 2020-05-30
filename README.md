@@ -64,7 +64,7 @@ Alternatives:
 [Python]: #python
 
 #### Version manager: [pyenv](https://github.com/pyenv/pyenv)
-[pyenv]: version-manager-pyenv
+[pyenv]: #version-manager-pyenv
 
 #### Package manager: [pip](https://pypi.org/project/pip/)
 [pip]: #package-manager-pip
