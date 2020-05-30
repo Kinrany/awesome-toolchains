@@ -2,13 +2,15 @@
 
 > Learn X's ecosystem in Y minutes
 
-<!-- sorted by name -->
+<!-- ecosystems sorted by name -->
+<!-- tools sorted by the order they're usually encountered in development process -->
 
-| Ecosystem | [Package manager] | [Unit testing] |
-| --------- | ----------------- | -------------- |
-| [C#]      | [Nuget]           |                |
-| [NodeJS]  | [NPM]             | [Jest]         |
-| [Rust]    | [Cargo]           | [`cargo test`] |
+| Ecosystem | [Version manager] | [Package manager] | [Unit testing] |
+| --------- | ----------------- | ----------------- | -------------- |
+| [C#]      |                   | [Nuget]           |                |
+| [NodeJS]  | [nvm]             | [NPM]             | [Jest]         |
+| [Ruby]    | [rvm]             |                   |                |
+| [Rust]    | [rustup]          | [Cargo]           | [`cargo test`] |
 
 <!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
 
@@ -29,6 +31,10 @@
 
 [NodeJS]: #NodeJS
 
+#### Version manager - [nvm](https://github.com/nvm-sh/nvm)
+
+[nvm]: #Version-manager---nvm
+
 #### Package manager - [NPM](https://www.npmjs.com/)
 
 [NPM]: #Package-manager---NPM
@@ -48,6 +54,10 @@ Alternatives:
 
 [Rust]: #Rust
 
+#### Version manager - [rustup](https://rustup.rs/)
+
+[rustup]: #Version-manager---rustup
+
 #### Package manager - [Cargo](https://doc.rust-lang.org/stable/cargo/)
 
 [Cargo]: #Package-manager---Cargo
@@ -55,6 +65,14 @@ Alternatives:
 #### Unit testing - [`cargo test`](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
 
 [`cargo test`]: #Unit-testing---cargo-test
+
+### Ruby
+
+[Ruby]: #Ruby
+
+#### Version manager - [rvm](https://rvm.io/)
+
+[rvm]: #Version-manager---rvm
 
 ## Contributing
 
