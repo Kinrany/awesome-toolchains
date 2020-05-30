@@ -5,12 +5,12 @@
 <!-- ecosystems sorted by name -->
 <!-- tools sorted by the order they're usually encountered in in development process -->
 
-| Ecosystem | [Version manager] | [Package manager] | [Unit testing] |
-| --------- | ----------------- | ----------------- | -------------- |
-| [C#]      |                   | [Nuget]           |                |
-| [NodeJS]  | [nvm]             | [NPM]             | [Jest]         |
-| [Ruby]    | [rvm]             |                   |                |
-| [Rust]    | [rustup]          | [Cargo]           | [`cargo test`] |
+| Ecosystem | Version manager | [Package manager] | [Unit testing] |
+| --------- | --------------- | ----------------- | -------------- |
+| [C#]      |                 | [Nuget]           |                |
+| [NodeJS]  | [nvm]           | [NPM]             | [Jest]         |
+| [Ruby]    | [rvm]           |                   |                |
+| [Rust]    | [rustup]        | [Cargo]           | [`cargo test`] |
 
 <!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
 
