@@ -19,7 +19,7 @@
 
 ## Ecosystems
 
-### C#
+### [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [C#]: #C#
 
@@ -27,7 +27,7 @@
 
 [Nuget]: #Package-manager---Nuget
 
-### NodeJS
+### [NodeJS](https://nodejs.org/en/)
 
 [NodeJS]: #NodeJS
 
@@ -50,7 +50,7 @@ Alternatives:
 Alternatives:
  - [Mocha](https://mochajs.org/)
 
-### Rust
+### [Rust](https://www.rust-lang.org/)
 
 [Rust]: #Rust
 
@@ -66,7 +66,7 @@ Alternatives:
 
 [`cargo test`]: #Unit-testing---cargo-test
 
-### Ruby
+### [Ruby](https://www.ruby-lang.org/en/)
 
 [Ruby]: #Ruby
 
