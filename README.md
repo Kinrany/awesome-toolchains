@@ -4,11 +4,11 @@
 
 <!-- sorted by name -->
 
-| Ecosystem    | Package manager |
-| ------------ | --------------- |
-| [C#]         | [Nuget]         |
-| [JavaScript] | [NPM]           |
-| [Rust]       | [Cargo]         |
+| Ecosystem | Package manager |
+| --------- | --------------- |
+| [C#]      | [Nuget]         |
+| [NodeJS]  | [NPM]           |
+| [Rust]    | [Cargo]         |
 
 <!-- links in headers start with url- to distinguish them from links in the table and to make it easy to link to the headers -->
 
@@ -20,9 +20,9 @@
 
 [Nuget]: #Package-manager---Nuget
 
-## Javascript
+## NodeJS
 
-[JavaScript]: #JavaScript
+[NodeJS]: #NodeJS
 
 #### Package manager - [NPM](https://www.npmjs.com/)
 
