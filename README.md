@@ -4,16 +4,16 @@
 
 <!-- sorted by name -->
 
-| Ecosystem | [Package manager] | Test automation |
-| --------- | ----------------- | --------------- |
-| [C#]      | [Nuget]           |                 |
-| [NodeJS]  | [NPM]             | [Jest]          |
-| [Rust]    | [Cargo]           |                 |
+| Ecosystem | [Package manager] | [Unit testing] |
+| --------- | ----------------- | -------------- |
+| [C#]      | [Nuget]           |                |
+| [NodeJS]  | [NPM]             | [Jest]         |
+| [Rust]    | [Cargo]           | [`cargo test`] |
 
 <!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
 
 [Package manager]: https://en.wikipedia.org/wiki/Package_manager
-[Test automation]: https://en.wikipedia.org/wiki/Test_automation
+[Unit testing]: https://en.wikipedia.org/wiki/Unit_testing
 
 ## Ecosystems
 
@@ -37,9 +37,9 @@ Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
 
-#### Test automation - [Jest](https://jestjs.io/)
+#### Unit testing - [Jest](https://jestjs.io/)
 
-[Jest]: #Test-automation---Jest
+[Jest]: #Unit-testing---Jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
@@ -51,6 +51,10 @@ Alternatives:
 #### Package manager - [Cargo](https://doc.rust-lang.org/stable/cargo/)
 
 [Cargo]: #Package-manager---Cargo
+
+#### Unit testing - [`cargo test`](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
+
+[`cargo test`]: #Unit-testing---cargo-test
 
 ## Contributing
 
