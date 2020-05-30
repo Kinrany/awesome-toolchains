@@ -10,6 +10,8 @@
 | [NodeJS]  | [NPM]             | [Jest]          |
 | [Rust]    | [Cargo]           |                 |
 
+<!-- see also https://en.wikipedia.org/wiki/Programming_tool -->
+
 [Package manager]: https://en.wikipedia.org/wiki/Package_manager
 [Test automation]: https://en.wikipedia.org/wiki/Test_automation
 
