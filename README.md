@@ -26,34 +26,34 @@
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [C#]: #c
 
-#### Package manager - [NuGet](https://www.nuget.org/)
-[NuGet]: #package-manager---nuget
+#### Package manager: [NuGet](https://www.nuget.org/)
+[NuGet]: #package-manager-nuget
 
-#### Code formatter - [CodeFormatter](https://github.com/dotnet/codeformatter)
-[CodeFormatter]: #code-formatter---codeformatter
+#### Code formatter: [CodeFormatter](https://github.com/dotnet/codeformatter)
+[CodeFormatter]: #code-formatter-codeformatter
 
 
 ### [NodeJS](https://nodejs.org/en/)
 [NodeJS]: #nodejs
 
-#### Version manager - [nvm](https://github.com/nvm-sh/nvm)
-[nvm]: #version-manager---nvm
+#### Version manager: [nvm](https://github.com/nvm-sh/nvm)
+[nvm]: #version-manager-nvm
 
-#### Package manager - [NPM](https://www.npmjs.com/)
-[NPM]: #package-manager---npm
+#### Package manager: [NPM](https://www.npmjs.com/)
+[NPM]: #package-manager-npm
 
 Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
 
-#### Code formatter - [Prettier](https://prettier.io)
-[Prettier]: #code-formatter---prettier
+#### Code formatter: [Prettier](https://prettier.io)
+[Prettier]: #code-formatter-prettier
 
-#### Linting - [ESLint](https://eslint.org/)
-[ESLint]: #linting---eslint
+#### Linting: [ESLint](https://eslint.org/)
+[ESLint]: #linting-eslint
 
-#### Testing - [Jest](https://jestjs.io/)
-[Jest]: #testing---jest
+#### Testing: [Jest](https://jestjs.io/)
+[Jest]: #testing-jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
@@ -62,30 +62,30 @@ Alternatives:
 ### [Ruby](https://www.ruby-lang.org/en/)
 [Ruby]: #ruby
 
-#### Version manager - [rvm](https://rvm.io/)
-[rvm]: #version-manager---rvm
+#### Version manager: [rvm](https://rvm.io/)
+[rvm]: #version-manager-rvm
 
-#### Package manager - [RubyGems](https://rubygems.org/)
-[RubyGems]: #package-manager---rubygems
+#### Package manager: [RubyGems](https://rubygems.org/)
+[RubyGems]: #package-manager-rubygems
 
-#### Linting - [RuboCop](https://rubocop.org/)
-[RuboCop]: #linting---rubocop
+#### Linting: [RuboCop](https://rubocop.org/)
+[RuboCop]: #linting-rubocop
 
 
 ### [Rust](https://www.rust-lang.org/)
 [Rust]: #rust
 
-#### Version manager - [rustup](https://rustup.rs/)
-[rustup]: #version-manager---rustup
+#### Version manager: [rustup](https://rustup.rs/)
+[rustup]: #version-manager-rustup
 
-#### Package manager - [Cargo](https://doc.rust-lang.org/stable/cargo/)
-[Cargo]: #package-manager---cargo
+#### Package manager: [Cargo](https://doc.rust-lang.org/stable/cargo/)
+[Cargo]: #package-manager-cargo
 
-#### Code formatter - [rustfmt](https://github.com/rust-lang/rustfmt)
-[rustfmt]: #code-formatter---rust
+#### Code formatter: [rustfmt](https://github.com/rust-lang/rustfmt)
+[rustfmt]: #code-formatter-rustfmt
 
-#### Testing - [`cargo test`](https://doc.rust-lang.org/cargo/guide/tests.html)
-[`cargo test`]: #testing---cargo-test
+#### Testing: [`cargo test`](https://doc.rust-lang.org/cargo/guide/tests.html)
+[`cargo test`]: #testing-cargo-test
 
 
 ## Contributing
