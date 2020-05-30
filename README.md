@@ -6,10 +6,19 @@
 
 | Ecosystem    | Package manager |
 | ------------ | --------------- |
+| [C#]         | [Nuget]         |
 | [JavaScript] | [NPM]           |
 | [Rust]       | [Cargo]         |
 
 <!-- links in headers start with url- to distinguish them from links in the table and to make it easy to link to the headers -->
+
+## C#
+
+[C#]: #C#
+
+#### Package manager - [Nuget](https://www.nuget.org/)
+
+[Nuget]: #Package-manager---Nuget
 
 ## Javascript
 
