@@ -9,7 +9,7 @@
 | --------- | --------------- | ----------------- | --------------- | --------- | -------------- |
 | [C#]      |                 | [NuGet]           | [CodeFormatter] |           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
-| [Python]  | [pyenv]         |                   |                 |           |                |
+| [Python]  | [pyenv]         | [pip]             |                 |           |                |
 | [Ruby]    | [rvm]           | [RubyGems]        |                 | [RuboCop] |                |
 | [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       |           | [`cargo test`] |
 
@@ -65,6 +65,9 @@ Alternatives:
 
 #### Version manager: [pyenv](https://github.com/pyenv/pyenv)
 [pyenv]: version-manager-pyenv
+
+#### Package manager: [pip](https://pypi.org/project/pip/)
+[pip]: #package-manager-pip
 
 
 ### [Ruby](https://www.ruby-lang.org/en/)
