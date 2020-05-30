@@ -4,13 +4,16 @@
 
 <!-- sorted by name -->
 
-| Ecosystem | Package manager | Testing framework |
-| --------- | --------------- | ----------------- |
-| [C#]      | [Nuget]         |                   |
-| [NodeJS]  | [NPM]           | [Jest]            |
-| [Rust]    | [Cargo]         |                   |
+| Ecosystem | [Package manager] | Test automation |
+| --------- | ----------------- | --------------- |
+| [C#]      | [Nuget]           |                 |
+| [NodeJS]  | [NPM]             | [Jest]          |
+| [Rust]    | [Cargo]           |                 |
 
-<!-- links in headers start with url- to distinguish them from links in the table and to make it easy to link to the headers -->
+[Package manager]: https://en.wikipedia.org/wiki/Package_manager
+[Test automation]: https://en.wikipedia.org/wiki/Test_automation
+
+## Ecosystems
 
 ### C#
 
@@ -32,9 +35,9 @@ Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
 
-#### Testing framework - [Jest](https://jestjs.io/)
+#### Test automation - [Jest](https://jestjs.io/)
 
-[Jest]: #Testing-framework---Jest
+[Jest]: #Test-automation---Jest
 
 Alternatives:
  - [Mocha](https://mochajs.org/)
