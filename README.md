@@ -4,11 +4,11 @@
 
 <!-- sorted by name -->
 
-| Ecosystem | Package manager |
-| --------- | --------------- |
-| [C#]      | [Nuget]         |
-| [NodeJS]  | [NPM]           |
-| [Rust]    | [Cargo]         |
+| Ecosystem | Package manager | Testing framework |
+| --------- | --------------- | ----------------- |
+| [C#]      | [Nuget]         |                   |
+| [NodeJS]  | [NPM]           | [Jest]            |
+| [Rust]    | [Cargo]         |                   |
 
 <!-- links in headers start with url- to distinguish them from links in the table and to make it easy to link to the headers -->
 
@@ -31,6 +31,13 @@
 Alternatives:
  - [Yarn](https://yarnpkg.com/)
  - [Pnpm](https://pnpm.js.org/)
+
+#### Testing framework - [Jest](https://jestjs.io/)
+
+[Jest]: #Package-manager---Jest
+
+Alternatives:
+ - [Mocha](https://mochajs.org/)
 
 ### Rust
 
