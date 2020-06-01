@@ -63,8 +63,12 @@ Alternatives:
 ### [Python](https://www.python.org/)
 [Python]: #python
 
-#### Version manager: [pyenv](https://github.com/pyenv/pyenv)
-[pyenv]: #version-manager-pyenv
+#### Version manager: [poetry](https://python-poetry.org/)
+[poetry]: #version-manager-poetry
+
+Alternatives:
+ - [pipenv](https://pipenv.pypa.io/en/latest/)
+ - [pyenv](https://github.com/pyenv/pyenv)
 
 #### Package manager: [pip](https://pypi.org/project/pip/)
 [pip]: #package-manager-pip
