@@ -9,7 +9,7 @@
 | --------- | --------------- | ----------------- | --------------- | --------- | -------------- |
 | [C#]      |                 | [NuGet]           | [CodeFormatter] |           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
-| [Python]  | [pyenv]         | [pip]             | [black]         |           |                |
+| [Python]  | [poetry]         | [pip]             | [black]         |           |                |
 | [Ruby]    | [rvm]           | [RubyGems]        |                 | [RuboCop] |                |
 | [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       | [Clippy]  | [`cargo test`] |
 
