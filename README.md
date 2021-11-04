@@ -9,7 +9,7 @@
 | --------- | --------------- | ----------------- | --------------- | --------- | -------------- |
 | [C#]      |                 | [NuGet]           | [CodeFormatter] |           |                |
 | [NodeJS]  | [nvm]           | [NPM]             | [Prettier]      | [ESLint]  | [Jest]         |
-| [Python]  | [poetry]         | [pip]             | [black]         |           |                |
+| [Python]  | [pyenv]         | [poetry]          | [black]         |           |                |
 | [Ruby]    | [rvm]           | [RubyGems]        |                 | [RuboCop] |                |
 | [Rust]    | [rustup]        | [Cargo]           | [rustfmt]       | [Clippy]  | [`cargo test`] |
 
@@ -63,15 +63,17 @@ Alternatives:
 ### [Python](https://www.python.org/)
 [Python]: #python
 
-#### Version manager: [poetry](https://python-poetry.org/)
-[poetry]: #version-manager-poetry
+#### Version manager: [pyenv](https://github.com/pyenv/pyenv)
+[pyenv]: #version-manager-pyenv
 
 Alternatives:
  - [pipenv](https://pipenv.pypa.io/en/latest/)
- - [pyenv](https://github.com/pyenv/pyenv)
 
-#### Package manager: [pip](https://pypi.org/project/pip/)
-[pip]: #package-manager-pip
+#### Package manager: [poetry](https://python-poetry.org/)
+[poetry]: #package-manager-poetry
+
+Alternatives:
+ - [pip](https://pypi.org/project/pip/)
 
 #### Code formatter: [black](https://github.com/psf/black)
 [black]: #code-formatter-black
